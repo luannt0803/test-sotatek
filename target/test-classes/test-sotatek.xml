@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Lazada" parallel="false">
+
+<parameter name="url" value="https://www.amazon.com/" />
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+<!-- 		<listener class-name="reportConfig.ExtentReportListenerV4" />  -->
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+
+
+	<test name="Run on CHROME">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="sotatek.amazon.home.TC_01_Test" />
+		</classes>
+	</test>
+
+</suite> 

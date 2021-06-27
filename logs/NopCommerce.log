@@ -1,0 +1,57 @@
+[INFO ] [2021-06-26 09:12:17,672] Ebay - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 09:12:18,239] Ebay - Step 02: Click to Search button
+[INFO ] [2021-06-26 09:12:21,267] OS name = windows 10
+[INFO ] [2021-06-26 09:12:23,118] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-26 09:13:16,201] Ebay - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 09:13:17,389] Ebay - Step 02: Click to Search button
+[INFO ] [2021-06-26 09:13:21,241] OS name = windows 10
+[INFO ] [2021-06-26 09:13:23,036] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-26 09:35:36,996] Ebay - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 09:35:38,063] Ebay - Step 02: Click to Search button
+[INFO ] [2021-06-26 09:35:41,778] Ebay - Step 03: Verify 'Apple iPhone 11 Pro - 256GB Unlocked Midnight Green' text displayed
+[INFO ] [2021-06-26 09:36:11,954] OS name = windows 10
+[INFO ] [2021-06-26 09:36:13,067] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-26 09:38:00,866] Ebay - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 09:38:01,309] Ebay - Step 02: Click to Search button
+[INFO ] [2021-06-26 09:38:05,052] Ebay - Step 03: Verify 'Apple iPhone 11 64GB Unlocked Smartphone' text displayed
+[INFO ] [2021-06-26 09:38:05,835] OS name = windows 10
+[INFO ] [2021-06-26 09:38:07,090] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-26 09:53:12,475] Ebay - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 09:53:13,772] Ebay - Step 02: Click to Search button
+[INFO ] [2021-06-26 09:53:17,100] Ebay - Step 03: Verify 'Apple iPhone 11 64GB Unlocked Smartphone' text displayed
+[INFO ] [2021-06-26 09:53:17,823] Ebay - Step 04: Select to Sort dropdown
+[INFO ] [2021-06-26 09:53:18,725] OS name = windows 10
+[INFO ] [2021-06-26 09:53:19,945] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-26 16:40:44,037] Ebay - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 16:40:45,268] Ebay - Step 02: Click to Search button
+[INFO ] [2021-06-26 16:40:49,082] Ebay - Step 03: Verify 'Apple iPhone 11 64GB Unlocked Smartphone' text displayed
+[INFO ] [2021-06-26 16:40:50,317] Ebay - Step 04: Select to Sort dropdown
+[INFO ] [2021-06-26 16:40:56,542] OS name = windows 10
+[INFO ] [2021-06-26 16:40:57,795] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-26 16:52:33,245] Ebay - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 16:52:33,770] Ebay - Step 02: Click to Search button
+[INFO ] [2021-06-26 16:52:38,339] Ebay - Step 03: Verify 'Apple iPhone 11 64GB Unlocked Smartphone' text displayed
+[INFO ] [2021-06-26 16:53:08,625] OS name = windows 10
+[INFO ] [2021-06-26 16:53:09,740] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-26 16:54:28,330] Ebay - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 16:54:28,705] Ebay - Step 02: Click to Search button
+[INFO ] [2021-06-26 16:54:34,870] Ebay - Step 03: Verify 'Apple iPhone 11 64GB Unlocked Smartphone' text displayed
+[INFO ] [2021-06-26 16:54:36,113] Ebay - Step 04: Select to Sort dropdown
+[INFO ] [2021-06-26 16:54:41,573] Ebay - Step 05: Verify sort Price: lowest first
+[INFO ] [2021-06-26 16:54:42,380] OS name = windows 10
+[INFO ] [2021-06-26 16:54:43,643] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-26 20:15:28,703] Ebay - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 20:15:30,643] Ebay - Step 02: Click to Search button
+[INFO ] [2021-06-26 20:15:36,108] Ebay - Step 03: Verify 'Apple iPhone 11 64GB Unlocked Smartphone' text displayed
+[INFO ] [2021-06-26 20:15:37,063] Ebay - Step 04: Select to Sort dropdown
+[INFO ] [2021-06-26 20:15:43,272] Ebay - Step 05: Verify sort Price: lowest first
+[INFO ] [2021-06-26 20:15:43,878] OS name = windows 10
+[INFO ] [2021-06-26 20:15:45,105] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-26 22:47:47,305] Lazada - Step 01: Enter to Search textbox
+[INFO ] [2021-06-26 22:47:57,550] Lazada - Step 02: Verify 'Apple iPhone 11 ' text displayed
+[INFO ] [2021-06-26 22:47:57,636] Lazada - Step 03: Click to Apple checkbox
+[INFO ] [2021-06-26 22:48:01,169] Lazada - Step 04: Select to Sort dropdown
+[INFO ] [2021-06-26 22:48:06,914] Lazada - Step 05: Verify sort Price: lowest first
+[INFO ] [2021-06-26 22:48:07,197]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-26 22:48:07,356] OS name = windows 10
+[INFO ] [2021-06-26 22:48:08,571] ---------- QUIT BROWSER SUCCESS ----------

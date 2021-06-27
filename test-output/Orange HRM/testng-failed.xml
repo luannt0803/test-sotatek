@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Orange HRM]">
+  <parameter name="url" value="https://www.amazon.com/"/>
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Run on CHROME(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="sotatek.amazon.home.TC_01_Test">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="TC_01_Test_Sotatek"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- sotatek.amazon.home.TC_01_Test -->
+    </classes>
+  </test> <!-- Run on CHROME(failed) -->
+</suite> <!-- Failed suite [Orange HRM] -->
